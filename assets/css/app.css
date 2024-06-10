@@ -699,7 +699,7 @@ nav.navbar ul.nav>li>a:hover {
     font-family: "Open Sans";
     font-size: 48px;
     font-weight: 800;
-    color: #fff;
+    color: #17ca0efc;
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
@@ -707,7 +707,7 @@ nav.navbar ul.nav>li>a:hover {
 .home_slides .carousel.slide .carousel-inner .item .carousel-caption p {
     font-size: 22px;
     font-weight: 700;
-    color: #fff;
+    color: #4755ec;
     padding: 20px 0px 60px 0;
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
